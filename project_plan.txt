@@ -1,0 +1,17 @@
+2D sprite editor
+- Drawing tools
+- Line, circle
+- Layers
+- Text annotations
+- Color coding
+- Zoom and pan view
+- Select and move pixels
+
+
+3D preview window
+- Rotate and zoom view
+- Render blocks with different materials and colors
+- Render lights (maybe not needed)
+
+
+

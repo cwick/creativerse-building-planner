@@ -7,11 +7,45 @@
 - Zoom and pan view
 - Select and move pixels
 
-
 3D preview window
 - Rotate and zoom view
 - Render blocks with different materials and colors
 - Render lights (maybe not needed)
 
 
+Components needed:
 
+web hosting
+pages.github.com
+1. create gh-pages branch
+2. create index.html
+3. commit and push
+4. Go to http://<username>.github.io/<repository-name>
+
+
+language that compiles into javascript
+
+coffeescript
+TypeScript
+
+build, deploy, test cycle
+Karma runner - karma-runner.github.io
+Jasmine - http://jasmine.github.io/
+Mocha - https://mochajs.org/
+Chai - http://chaijs.com/
+Sinon - http://sinonjs.org/
+
+
+IDE
+Webstorm
+
+2D canvas library
+http://www.pixijs.com/
+
+3D rendering library
+http://www.babylonjs.com/
+http://threejs.org/
+
+
+First test:
+Turning on a pixel in the 2D editor draws the corresponding 3D block
